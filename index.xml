@@ -1,0 +1,237 @@
+<!DOCTYPE html>
+<html>
+<title>PBI-BB</title>
+<meta name="viewport" content="width=device-width, initial-scale=1"/>
+<link rel="stylesheet" href="https://cdn.rawgit.com/mobpost/blo-template/lib/easyread.css"/>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat"/>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.6.3/css/font-awesome.min.css"/>
+<style>
+body, h1,h2,h3,h4,h5,h6{font-family: "Montserrat", sans-serif}
+.er-row-padding img {margin-bottom: 12px}
+/* Set the width of the sidenav to 120px */
+.er-sidenav {width: 120px;background: #222;}
+/* Add a left margin to the "page content" that matches the width of the sidenav (120px) */
+#main {margin-left: 120px}
+/* Remove margins from "page content" on small screens */
+@media only screen and (max-width: 600px) {#main {margin-left: 0}}
+</style>
+<body class="er-black">
+
+<!-- Icon Bar (Sidenav - hidden on small screens) -->
+<nav class="er-sidenav er-center er-small er-hide-small">
+  <!-- Avatar image in top left corner -->
+  <img src="https://3.bp.blogspot.com/-KLGwx4mL5ww/WAhNMHNipbI/AAAAAAAAAsY/zuLwE0JZrRIpL7tAizlKuxRLzFKXnAyNgCLcB/s320/Standby-wallpaper-7757371.jpg" style="width:100%"/>
+  <a class="er-padding-large er-black" href="#">
+    <i class="fa fa-home er-xxlarge"></i>
+    <p>HOME</p>
+  </a>
+  <a class="er-padding-large er-hover-black" href="#about">
+    <i class="fa fa-user er-xxlarge"></i>
+    <p>ABOUT</p>
+  </a>
+  <a class="er-padding-large er-hover-black" href="#photos">
+    <i class="fa fa-eye er-xxlarge"></i>
+    <p>PHOTOS</p>
+  </a>
+  <a class="er-padding-large er-hover-black" href="#contact">
+    <i class="fa fa-envelope er-xxlarge"></i>
+    <p>CONTACT</p>
+  </a>
+</nav>
+
+<!-- Navbar on small screens (Hidden on medium and large screens) -->
+<div class="er-top er-hide-large er-hide-medium" id="myNavbar">
+  <ul class="er-navbar er-left-align er-black er-opacity er-hover-opacity-off er-center er-small">
+    <li class="er-left" style="width:25% !important"><a href="#">HOME</a></li>
+    <li class="er-left" style="width:25% !important"><a href="#about">ABOUT</a></li>
+    <li class="er-left" style="width:25% !important"><a href="#photos">PHOTOS</a></li>
+    <li class="er-left" style="width:25% !important"><a href="#contact">CONTACT</a></li>
+  </ul>
+</div>
+
+<!-- Page Content -->
+<div class="er-padding-large" id="main">
+  <!-- Header/Home -->
+  <header class="er-container er-padding-32 er-center er-black" id="home">
+    <h1 class="er-jumbo"><span class="er-hide-small">Welcome</span> PBI-BB</h1>
+    <p>Hard Worker and Crazy team</p>
+    <img src="https://3.bp.blogspot.com/-KLGwx4mL5ww/WAhNMHNipbI/AAAAAAAAAsY/zuLwE0JZrRIpL7tAizlKuxRLzFKXnAyNgCLcB/s320/Standby-wallpaper-7757371.jpg" alt="boy" class="er-image" width="992" height="1108"/>
+  </header>
+
+  <!-- About Section -->
+  <div class="er-content er-justify er-text-grey er-padding-64" id="about">
+    <h2 class="er-text-light-grey">About Us</h2>
+    <hr style="width:200px" class="er-opacity"/>
+    <p>We are just ordinary people, we are hard worker, we called our team as "BOLD LINE".
+      It's describe us of our activity. Because in this life "No lines appears tiny", it means "Nothing easy". The "Bold Line" means "Everything is Hard to reach".
+      But, we believe, "Everything's gonna be alright if we are in 'alright' facing those things with some little crazy".
+    </p>
+    <h3 class="er-padding-16 er-text-light-grey">Our Strength, Skill, and Power</h3>
+    <p class="er-wide">Stamina</p>
+    <div class="er-progress-container">
+      <div class="er-progressbar" style="width:95%"></div>
+    </div>
+    <p class="er-wide">Crazy</p>
+    <div class="er-progress-container">
+      <div class="er-progressbar" style="width:85%"></div>
+    </div>
+    <p class="er-wide">Lovely</p>
+    <div class="er-progress-container">
+      <div class="er-progressbar" style="width:75%"></div>
+    </div>
+    <p class="er-wide">Strong bond of Friendship</p>
+    <div class="er-progress-container">
+      <div class="er-progressbar" style="width:85%"></div>
+    </div>
+    <p class="er-wide">Good Person</p>
+    <div class="er-progress-container">
+      <div class="er-progressbar" style="width:82%"></div>
+    </div>
+    <p class="er-wide">Humorous</p>
+    <div class="er-progress-container">
+      <div class="er-progressbar" style="width:100%"></div>
+    </div>
+    <p class="er-wide">Up-to-date</p>
+    <div class="er-progress-container">
+      <div class="er-progressbar" style="width:54%"></div>
+    </div>
+    <p class="er-wide">Baby Face</p>
+    <div class="er-progress-container">
+      <div class="er-progressbar" style="width:5%"></div>
+    </div>
+    <p class="er-wide">Gentle</p>
+    <div class="er-progress-container">
+      <div class="er-progressbar" style="width:67%"></div>
+    </div>
+    <p class="er-wide">Positive Thinking</p>
+    <div class="er-progress-container">
+      <div class="er-progressbar" style="width:78%"></div>
+    </div>
+    <p class="er-wide">Optimist</p>
+    <div class="er-progress-container">
+      <div class="er-progressbar" style="width:83%"></div>
+    </div>
+    <p class="er-wide">Cheerful</p>
+    <div class="er-progress-container">
+      <div class="er-progressbar" style="width:70%"></div>
+    </div>
+    <p class="er-wide">Rich</p>
+    <div class="er-progress-container">
+      <div class="er-progressbar" style="width:11%"></div>
+    </div>
+    <p class="er-wide">Religious</p>
+    <div class="er-progress-container">
+      <div class="er-progressbar" style="width:93%"></div>
+    </div>
+    <p class="er-wide">Peaceful</p>
+    <div class="er-progress-container">
+      <div class="er-progressbar" style="width:97%"></div>
+    </div><br/>
+    
+    <div class="er-row er-center er-padding-16 er-section" style="background:#222">
+      <div class="er-quarter er-section">
+        <span class="er-xlarge">20+</span><br/>
+        Members
+      </div>
+      <div class="er-quarter er-section">
+        <span class="er-xlarge">100+</span><br/>
+        Jobs
+      </div>
+      <div class="er-quarter er-section">
+        <span class="er-xlarge">5+</span><br/>
+        Jobs/day
+      </div>
+      <div class="er-quarter er-section">
+        <span class="er-xlarge">20+</span><br/>
+        Meetings/month
+      </div>
+    </div>
+
+    <a role='button' target='_blank' href='http://www.powerblockindonesia.co.id' class="er-btn er-light-grey er-padding-large er-section er-hover-grey">
+      <i class="fa fa-link"></i> Go to our workplace
+    </a>
+    
+    <!-- Testimonials -->
+    <h3 class="er-padding-24 er-text-light-grey">What members say:</h3>
+    <img src="https://3.bp.blogspot.com/-zs8qJnDZ3xc/WAhUVHPerYI/AAAAAAAAAsw/1Kg1EfBTiXsFh9k4FF7bLleXu_L4rY9CgCLcB/s320/chepp.jpg" alt="Avatar" class="er-left er-circle er-margin-right" style="width:80px"/>
+    <p><span class="er-large er-margin-right">Chepps</span> Owner of PBI-BB.cf, Admin T-BB.</p>
+    <p>The hard job would be harder if all members make some noises 😄.</p><br/>
+    
+    <img src="https://4.bp.blogspot.com/-3AScay2MlrQ/WAhWdRZf85I/AAAAAAAAAs0/BLiZ0W2az487B1myw9DIUQlOdz0r417DQCLcB/s320/IMG_20160803_174023-picsay.jpg" alt="Avatar" class="er-left er-circle er-margin-right" style="width:80px"/>
+    <p><span class="er-large er-margin-right">Suhendra Lie.</span> Admin T-BB.</p>
+    <p>They are insane. Haha.</p>
+    
+    <img src="https://2.bp.blogspot.com/-HpVU2j5vq3M/WAhWhGJcirI/AAAAAAAAAs8/NhNRIOxIvzYQJwB5wq_-4fESjBYwKMqKgCLcB/s320/IMG_20160925_093012-picsay.jpg" alt="Avatar" class="er-left er-circle er-margin-right" style="width:80px"/>
+    <p><span class="er-large er-margin-right">Arisman.</span> SPV BB.</p>
+    <p>Leading them was like leading ducks. 😂.</p>
+    
+    <img src="https://2.bp.blogspot.com/-mgj2wq6r1AY/WAhWiF4HffI/AAAAAAAAAtA/F4T-6FLfkIQGio3ZO1cmOT2D2pPQ_H-PwCLcB/s320/IMG_20160925_093312-picsay.jpg" alt="Avatar" class="er-left er-circle er-margin-right" style="width:80px"/>
+    <p><span class="er-large er-margin-right">A. Majid</span> General OPT-BB.</p>
+    <p>Huhh,, ladaaa....</p>
+
+    <img src="https://3.bp.blogspot.com/-hsbgab0ZPdI/WAhWhDLdPtI/AAAAAAAAAs4/NbwU_MS7HBIMVt6T4pVbwNcJFY7acF7QwCLcB/s320/IMG_20160926_183035-picsay.jpg" alt="Avatar" class="er-left er-circle er-margin-right" style="width:80px"/>
+    <p><span class="er-large er-margin-right">M. Ali</span> General WH-BB.</p>
+    <p>Acko,, Acko,, Acko....</p>
+  <!-- End About Section -->
+  </div>
+  
+  <!-- Portfolio Section -->
+  <div class="er-padding-64 er-content" id="photos">
+    <h2 class="er-text-light-grey">Albums</h2>
+    <hr style="width:200px" class="er-opacity"/>
+
+    <!-- Grid for photos -->
+    <div class="er-row-padding" style="margin:0 -16px">
+      <div class="er-half">
+        <img src="https://3.bp.blogspot.com/-jsoKxobmDsI/WAhY7PCwLzI/AAAAAAAAAtQ/ZaT3mpJpLqc_CKlkE70F_2ueZGJgPcHYgCLcB/s320/IMG_20160907_075904.jpg" style="width:100%"/>
+        <img src="https://1.bp.blogspot.com/-E8jMcuDqz6w/WAhY3YDbmlI/AAAAAAAAAtM/c_c9clIibYIPH8DZwGR-zmdNxSljKpUswCLcB/s320/IMG_20160926_183035.jpg" style="width:100%"/>
+      </div>
+
+      <div class="er-half">
+        <img src="https://2.bp.blogspot.com/-DTm0NS5xghQ/WAhY02XfIEI/AAAAAAAAAtI/bwgDWOXmL0cWmY6VcJevPzZm4MyAZZ3AQCLcB/s320/IMG_20160928_170928.jpg" style="width:100%"/>
+      </div>
+    <!-- End photo grid -->
+    </div>
+  <!-- End Portfolio Section -->
+  </div>
+
+  <!-- Contact Section -->
+  <div class="er-padding-64 er-content er-text-grey" id="contact">
+    <h2 class="er-text-light-grey">Contact Us</h2>
+    <hr style="width:200px" class="er-opacity"/>
+
+    <div class="er-section">
+      <p><i class="fa fa-map-marker fa-fw er-text-white er-xxlarge er-margin-right"></i> Serang, Banten, Indonesia</p>
+      <p><i class="fa fa-phone fa-fw er-text-white er-xxlarge er-margin-right"></i> Phone: +62 XXXXXXXXX</p>
+      <p><i class="fa fa-envelope fa-fw er-text-white er-xxlarge er-margin-right"> </i> Email: not available</p>
+    </div><br/>
+    
+    <p>Lets get in touch. Send me a message:</p>
+    <form action='mailto://asepmulyana.ht@gmail.com'>
+    <p><input class="er-input er-border er-padding-16" type="text" placeholder="Name"></p>
+    <p><input class="er-input er-border er-padding-16" type="text" placeholder="Email"></p>
+    <p><input class="er-input er-border er-padding-16" type="text" placeholder="Subject"></p>
+    <p><input class="er-input er-border er-padding-16" type="text" placeholder="Comment"></p>
+    <p><button class="er-btn er-light-grey er-padding-large er-hover-grey">
+      <i class="fa fa-paper-plane"></i> SEND MESSAGE
+    </button></p>
+    </form>
+  <!-- End Contact Section -->
+  </div>
+  
+    <!-- Footer -->
+  <footer class="er-content er-padding-64 er-text-grey er-xlarge">
+    <a href="#" class="er-hover-text-indigo"><i class="fa fa-facebook-official"></i></a>
+    <a href="#" class="er-hover-text-red"><i class="fa fa-pinterest-p"></i></a>
+    <a href="#" class="er-hover-text-light-blue"><i class="fa fa-twitter"></i></a>
+    <a href="#" class="er-hover-text-grey"><i class="fa fa-flickr"></i></a>
+    <a href="#" class="er-hover-text-indigo"><i class="fa fa-linkedin"></i></a>
+    <p class="er-medium">Designed by <a href="http://www.w3schools.com/w3css/default.asp" target="_blank" class="er-hover-text-green">Chepps</a></p>
+  <!-- End footer -->
+  </footer>
+
+<!-- END PAGE CONTENT -->
+</div>
+
+</body>
+</html>
